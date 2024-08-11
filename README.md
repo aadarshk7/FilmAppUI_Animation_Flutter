@@ -19,7 +19,7 @@
         <div class="film-card">
             <img src="https://raw.githubusercontent.com/aadarshk7/filmapp_ui/master/assets/screenshots/app.gif" alt="Film 2" class="film-image" height="550" width="250">
             <div class="film-details">
-                <h2 class="film-title">Film App</h2>
+                <h2 class="film-title">Nepali Film Showcasae</h2>
                 <p class="film-tags"></p>
             </div>
         </div>
