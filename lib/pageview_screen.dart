@@ -11,7 +11,11 @@ class _PageViewScreenState extends State<PageViewScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Text("Hello"),
-    );
+        appBar: AppBar(
+          title: Text("AppUI"),
+        ),
+        body: Stack(
+          
+        ));
   }
 }
