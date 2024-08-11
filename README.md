@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<h2>Film App_UI Showcase</h2>
+<h2>Film App_UI from Flutter</h2>
   <p>Simle Animated Flutter FilmApp containing PageViewBuilder,MediaQuery for responsiveness</p>
 <body>
     <header>
