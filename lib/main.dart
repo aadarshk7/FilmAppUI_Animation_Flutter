@@ -1,6 +1,7 @@
 import 'package:filmapp_ui/pageview_screen.dart';
 import 'package:flutter/material.dart';
 import 'moviestypes.dart';
+
 void main() {
   runApp(const Filmappui());
 }
