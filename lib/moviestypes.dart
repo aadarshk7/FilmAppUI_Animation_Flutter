@@ -11,9 +11,9 @@ class Movies extends StatelessWidget {
   Widget build(BuildContext context) {
     List<Movies> moviesList = [
       const Movies(
-          name: 'Ma yesto geet gaunchu',
+          name: 'Marver The Avengers',
           image:
-              'https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2020/lifestyle/ma-yesto-geet-Gauchu-nepali-movie.jpg&w=900&height=601',
+              'https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSK0mRgxk6RD6AXbkAzpQRs7FCh9J0FiOxC9eIHCqoxAgpBeywiPrFjbAcGKbCaVYkc',
           type: ['Nepali', 'LoveStory']),
       const Movies(
           name: 'Aadarsh Kunwar',
