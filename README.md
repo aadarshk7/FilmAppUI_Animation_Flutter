@@ -13,7 +13,7 @@
         <div class="film-card">
             <img src="https://raw.githubusercontent.com/aadarshk7/filmapp_ui/master/assets/screenshots/1st.jpg" alt="Film 1" class="film-image" height="500" width="250">
             <div class="film-details">
-                <h2 class="film-title">Films</h2>
+                <h2 class="film-title">Films Showing .gif</h2>
             </div>
         </div>
         <div class="film-card">
