@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//Movies
 class Movies extends StatelessWidget {
   final String name;
   final String image;
