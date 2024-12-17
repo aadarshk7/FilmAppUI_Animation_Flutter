@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'moviestypes.dart';
 
 void main() {
+  //main function
   runApp(const Filmappui());
 }
 
